@@ -13,26 +13,40 @@
     padding: 40px 70px
     display: flex
     flex-direction: column
-
+    @media screen and (max-width: 1170px)
+        padding: 20px
 .content
     display: flex
     flex-direction: row
     padding: 60px 0
     width: 100%
+    @media screen and (max-width: 1025px)
+        flex-direction: column
     &__box
         display: flex
         flex: 1
         width: 50%
         flex-direction: column
+        @media screen and (max-width: 1170px)
+            padding-left: 50px
+        @media screen and (max-width: 1024px)
+            width: 100%
+        @media screen and ( max-width: 768px )
+            padding: 0
         .title
             font-size: 64px
             font-weight: bold
             text-align: left
+            @media screen and ( max-width: 768px )
+                font-size: 48px
         .description
             width: 60%
             font-size: 24px
             margin: 35px 0
             text-align: justify
+            @media screen and ( max-width: 768px )
+                font-size: 18px
+                width: 100%
         .btnHome
             background: $primary-color
             font-size: $font-size
@@ -45,8 +59,14 @@
             text-decoration: none
     &__image
         width: 50%
+        @media screen and (max-width: 1024px)
+            width: 100%
         img
             max-width: 600px
+            @media screen and (max-width: 768px)
+                max-width: 100%
+
+
 
 h1
     font-weight: bold
