@@ -3,13 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src='https://img.shields.io/github/stars/MaximianoEduardo/Spotify-Clone'>
-</p>
-
-<p align="center">
   <a href="#como_usar-how-to-use">📚 How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#fire-technologies">🔥 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Live-demo">🔥 Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Live-demo">💻 Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">📝 License</a>
 </p>
 
