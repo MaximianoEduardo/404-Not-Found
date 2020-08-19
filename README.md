@@ -20,8 +20,10 @@
 ---
 
 <p aling='center'>
-    Project host on firebase [404 - Not Found](https://notfound-12d7a.web.app/)
+    Project host on firebase:
 </p>
+
+- [404 - Not Found](https://notfound-12d7a.web.app/)
 
 ---
 # 📚 How To Use
